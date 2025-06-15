@@ -1,0 +1,75 @@
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-base {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 4px;
+}
+
+/* Search Result Skeleton */
+.skeleton-result-item {
+  padding: 12px 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.skeleton-name {
+  composes: skeleton-base;
+  height: 20px;
+  width: 60%;
+  margin-bottom: 8px;
+}
+
+.skeleton-details {
+  display: flex;
+  gap: 16px;
+}
+
+.skeleton-class, .skeleton-roll {
+  composes: skeleton-base;
+  height: 16px;
+  width: 100px;
+}
+
+/* Student Details Skeleton */
+.skeleton-details-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.skeleton-title {
+  composes: skeleton-base;
+  height: 32px;
+  width: 200px;
+  margin: 0 auto 1rem;
+}
+
+.skeleton-details-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skeleton-detail-item {
+  composes: skeleton-base;
+  height: 24px;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.skeleton-detail-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+} 
