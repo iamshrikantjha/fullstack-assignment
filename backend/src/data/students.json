@@ -1,0 +1,304 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amritpal Singh",
+      "class": 10,
+      "rollNumber": 10001
+    },
+    {
+      "id": 2,
+      "name": "Jaspreet Kaur",
+      "class": 9,
+      "rollNumber": 10002
+    },
+    {
+      "id": 3,
+      "name": "Harpreet Singh",
+      "class": 10,
+      "rollNumber": 10003
+    },
+    {
+      "id": 4,
+      "name": "Simran Kaur",
+      "class": 1,
+      "rollNumber": 10004
+    },
+    {
+      "id": 5,
+      "name": "Gurpreet Singh",
+      "class": 8,
+      "rollNumber": 10005
+    },
+    {
+      "id": 6,
+      "name": "Navjot Kaur",
+      "class": 7,
+      "rollNumber": 10006
+    },
+    {
+      "id": 7,
+      "name": "Daljeet Singh",
+      "class": 6,
+      "rollNumber": 10007
+    },
+    {
+      "id": 8,
+      "name": "Harmandeep Kaur",
+      "class": 5,
+      "rollNumber": 10008
+    },
+    {
+      "id": 9,
+      "name": "Jatinder Singh",
+      "class": 4,
+      "rollNumber": 10009
+    },
+    {
+      "id": 10,
+      "name": "Mandeep Kaur",
+      "class": 3,
+      "rollNumber": 10010
+    },
+    {
+      "id": 11,
+      "name": "Gagandeep Singh",
+      "class": 2,
+      "rollNumber": 10011
+    },
+    {
+      "id": 12,
+      "name": "Ravinder Kaur",
+      "class": 1,
+      "rollNumber": 10012
+    },
+    {
+      "id": 13,
+      "name": "Sukhdeep Singh",
+      "class": 10,
+      "rollNumber": 10013
+    },
+    {
+      "id": 14,
+      "name": "Baljit Kaur",
+      "class": 9,
+      "rollNumber": 10014
+    },
+    {
+      "id": 15,
+      "name": "Rajinder Singh",
+      "class": 12,
+      "rollNumber": 10015
+    },
+    {
+      "id": 16,
+      "name": "Harjot Kaur",
+      "class": 11,
+      "rollNumber": 10016
+    },
+    {
+      "id": 17,
+      "name": "Avneet Singh",
+      "class": 8,
+      "rollNumber": 10017
+    },
+    {
+      "id": 18,
+      "name": "Parminder Kaur",
+      "class": 7,
+      "rollNumber": 10018
+    },
+    {
+      "id": 19,
+      "name": "Jagdeep Singh",
+      "class": 6,
+      "rollNumber": 10019
+    },
+    {
+      "id": 20,
+      "name": "Ramandeep Kaur",
+      "class": 5,
+      "rollNumber": 10020
+    },
+    {
+      "id": 21,
+      "name": "Inderjeet Singh",
+      "class": 12,
+      "rollNumber": 10021
+    },
+    {
+      "id": 22,
+      "name": "Manpreet Kaur",
+      "class": 11,
+      "rollNumber": 10022
+    },
+    {
+      "id": 23,
+      "name": "Tajinder Singh",
+      "class": 10,
+      "rollNumber": 10023
+    },
+    {
+      "id": 24,
+      "name": "Kirandeep Kaur",
+      "class": 9,
+      "rollNumber": 10024
+    },
+    {
+      "id": 25,
+      "name": "Ravneet Singh",
+      "class": 8,
+      "rollNumber": 10025
+    },
+    {
+      "id": 26,
+      "name": "Jaskiran Kaur",
+      "class": 7,
+      "rollNumber": 10026
+    },
+    {
+      "id": 27,
+      "name": "Hardeep Singh",
+      "class": 6,
+      "rollNumber": 10027
+    },
+    {
+      "id": 28,
+      "name": "Rajwinder Kaur",
+      "class": 5,
+      "rollNumber": 10028
+    },
+    {
+      "id": 29,
+      "name": "Sandeep Singh",
+      "class": 4,
+      "rollNumber": 10029
+    },
+    {
+      "id": 30,
+      "name": "Pavneet Kaur",
+      "class": 3,
+      "rollNumber": 10030
+    },
+    {
+      "id": 31,
+      "name": "Gurjinder Singh",
+      "class": 2,
+      "rollNumber": 10031
+    },
+    {
+      "id": 32,
+      "name": "Harpreet Kaur",
+      "class": 1,
+      "rollNumber": 10032
+    },
+    {
+      "id": 33,
+      "name": "Jaswinder Singh",
+      "class": 12,
+      "rollNumber": 10033
+    },
+    {
+      "id": 34,
+      "name": "Davinder Kaur",
+      "class": 11,
+      "rollNumber": 10034
+    },
+    {
+      "id": 35,
+      "name": "Surinder Singh",
+      "class": 10,
+      "rollNumber": 10035
+    },
+    {
+      "id": 36,
+      "name": "Kanwaljit Kaur",
+      "class": 9,
+      "rollNumber": 10036
+    },
+    {
+      "id": 37,
+      "name": "Bhupinder Singh",
+      "class": 8,
+      "rollNumber": 10037
+    },
+    {
+      "id": 38,
+      "name": "Ranjit Kaur",
+      "class": 7,
+      "rollNumber": 10038
+    },
+    {
+      "id": 39,
+      "name": "Jatpreet Singh",
+      "class": 6,
+      "rollNumber": 10039
+    },
+    {
+      "id": 40,
+      "name": "Navneet Kaur",
+      "class": 5,
+      "rollNumber": 10040
+    },
+    {
+      "id": 41,
+      "name": "Taranjit Singh",
+      "class": 4,
+      "rollNumber": 10041
+    },
+    {
+      "id": 42,
+      "name": "Rajveer Kaur",
+      "class": 3,
+      "rollNumber": 10042
+    },
+    {
+      "id": 43,
+      "name": "Kamaljit Singh",
+      "class": 2,
+      "rollNumber": 10043
+    },
+    {
+      "id": 44,
+      "name": "Amarjeet Kaur",
+      "class": 1,
+      "rollNumber": 10044
+    },
+    {
+      "id": 45,
+      "name": "Satnam Singh",
+      "class": 12,
+      "rollNumber": 10045
+    },
+    {
+      "id": 46,
+      "name": "Paramjit Kaur",
+      "class": 11,
+      "rollNumber": 10046
+    },
+    {
+      "id": 47,
+      "name": "Gurcharan Singh",
+      "class": 10,
+      "rollNumber": 10047
+    },
+    {
+      "id": 48,
+      "name": "Balwinder Kaur",
+      "class": 9,
+      "rollNumber": 10048
+    },
+    {
+      "id": 49,
+      "name": "Kuldip Singh",
+      "class": 8,
+      "rollNumber": 10049
+    },
+    {
+      "id": 50,
+      "name": "Harmohan Kaur",
+      "class": 7,
+      "rollNumber": 10050
+    }
+  ]
+} 
